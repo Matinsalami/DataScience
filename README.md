@@ -1,2 +1,1 @@
-All the datasets are from Kaggle.
-I have tried to implement each project from scratch with proper comments and explanations
+A Repo for practice and taking note of different ML and DL algorithms
